@@ -5,6 +5,24 @@
 - Probability and Bayes’ Rule
 
   Ability to calculate probabilities and apply Bayes’ rule
+  
+  - Probability :
+  
+    Discrete Prob. Distribution:
+    
+    Ex. Bernoulli Distribution 
+    
+    Ex. Binomial Distribution
+    
+    Continous Prob. Distribution:
+    
+    
+    
+    
+    
+    ... ...
+    
+   
 
 - Maximum Likelihood
 
