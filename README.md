@@ -45,6 +45,12 @@
   - K means
   
   - Spectral Clustering
+  
+    Adjacency matrix A relect connecting edges for nodes a_ij
+    
+    matrix D reflect edges on nodes (on diagonal of matrix D)
+    
+    Laplacian = D-A
 
 - PCA
 
