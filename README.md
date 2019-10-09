@@ -18,6 +18,7 @@
     
     
     [Joint Cumulative Distributions:](https://www.probabilitycourse.com/chapter5/5_2_2_joint_cdf.php)
+    
     [Bayes' Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem)
     
     
