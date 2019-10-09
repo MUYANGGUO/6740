@@ -17,7 +17,8 @@
     Continous Prob. Distribution:
     
     
-    
+    [Joint Cumulative Distributions:](https://www.probabilitycourse.com/chapter5/5_2_2_joint_cdf.php)
+  
     
     
     ... ...
