@@ -30,12 +30,21 @@
 - Maximum Likelihood
 
   Ability to derive the log likelihood function and its MLE estimator
+  
+  - Estimate for parameters in boundary conditons, think about probability density function's decreasing or increasing, locate the MLE estimator by comparing with X_i
+  
+  - Estimate for parameters in probability density function, suppose n times find the probability for n times trials, and run log scale, do partial derivative with respect to the estimator. 
+  
 
 - Clustering
 
   Understanding of the concept and process of the clustering algorithms such as k-means, spectral clustering and so on.
 
   Understanding of how different choices (e.g. K, distance metric) will influence the results
+  
+  - K means
+  
+  - Spectral Clustering
 
 - PCA
 
